@@ -1,3 +1,2 @@
-Python3
-amino.fix==2.3.4.8
-random
+aminofix == 2.3.4.8
+random 
