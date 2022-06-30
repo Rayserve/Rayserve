@@ -1,1 +1,1 @@
-worker: python3 fish.py
+bot: python3 fish.py
