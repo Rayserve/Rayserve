@@ -1,1 +1,1 @@
-bot: python fish.py
+bot: python3 fish
